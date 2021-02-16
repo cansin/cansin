@@ -10,7 +10,7 @@
     <img
       height="165"
       width="314"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cansin&hide_title=true&layout=compact&card_width=248&langs_count=8"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cansin&hide_title=true&layout=compact&card_width=245&langs_count=8"
     />
   </a>
 </p>
